@@ -13,3 +13,7 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+git add main.py
+git commit -m "Add main.py"
+git push -u origin master
