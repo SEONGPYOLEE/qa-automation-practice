@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# venv
+venv/
+.python-selenium-venv/
+.env/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
