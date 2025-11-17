@@ -17,3 +17,9 @@ Thumbs.db
 git add main.py
 git commit -m "Add main.py"
 git push -u origin master
+
+# 로그와 캡처 저장
+logs/
+screenshots/
+*.log
+*.png
